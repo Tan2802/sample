@@ -1,0 +1,22 @@
+p1 {
+    color: antiquewhite;
+    font-style: italic;
+    
+}
+
+.box {
+    height: 275px;
+    width: -700px;
+    padding: 50PX;
+    margin-top: 6px;
+    margin-bottom: 20px;
+    margin-right: -98.5px;
+    margin-left: -60px;
+    border-color: palevioletred;
+    background-color: black;
+    
+    
+
+}
+
+
